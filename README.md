@@ -1,7 +1,6 @@
 ## night-fox minimal theme
 > This is a theme that is frankensteined from other themes. 
-
-A lot of css are from other themes:</br>
+</br>
 [firefox-i i3wm-theme](https://github.com/aadilayub/firefox-i3wm-theme)</br>
 [firefox-qutebrowser-userchrome](https://github.com/Dook97/firefox-qutebrowser-userchrome)
 
