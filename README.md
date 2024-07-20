@@ -1,8 +1,8 @@
 ## night-fox minimal theme
 > This is a theme that is frankensteined from other themes. 
-</br>
-[firefox-i i3wm-theme](https://github.com/aadilayub/firefox-i3wm-theme)</br>
-[firefox-qutebrowser-userchrome](https://github.com/Dook97/firefox-qutebrowser-userchrome)</br>
+
+[firefox-i i3wm-theme](https://github.com/aadilayub/firefox-i3wm-theme) </br>
+[firefox-qutebrowser-userchrome](https://github.com/Dook97/firefox-qutebrowser-userchrome) </br>
 
 > [!note]
 > **This theme will only work in dark mode as default, you can change the hex code in the css file to customize the colors.**</br>
