@@ -302,4 +302,7 @@ tab {
 	display: none;
 }
 
+#tabSharingMenu {
+  display: none;
+}
 --spacer--color: #057;
